@@ -1,12 +1,9 @@
 
-# 🐍 Python Basic Problems
+#  Python Basic Problems
 
 This repository contains solutions to **10 beginner-level Python programming problems**.  
 I created this repo to practice Python fundamentals and to keep track of my learning progress.  
-
----
-
-## 📌 Problems Covered
+# Problems Covered
 
 1. Take user input and print it  
 2. Check if a number is positive, negative, or zero  
@@ -19,10 +16,4 @@ I created this repo to practice Python fundamentals and to keep track of my lear
 9. Check if a variable is of a specific data type  
 10. Perform arithmetic operations (addition, subtraction, multiplication, division)  
 
----
 
-## 🚀 How to Run
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
